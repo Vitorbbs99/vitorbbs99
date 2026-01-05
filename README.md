@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Olá!
 
-<!--
-**Vitorbbs99/vitorbbs99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atuo no desenvolvimento e na manutenção de sistemas, trabalhando desde a arquitetura do back-end até a criação de interfaces intuitivas no front-end. Tenho experiência no desenvolvimento de **APIs escaláveis** e no uso de **bancos de dados SQL e NoSQL**, aplicando boas práticas para garantir desempenho e confiabilidade.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Informações
+
+- 🔗 https://vitorbbs99.github.io/portfolio/
+
+---
+
+## 🌐 Onde me encontrar
+
+- 🟣 **Linkedin:** https://www.linkedin.com/in/vitor-barbosa-162640174/
