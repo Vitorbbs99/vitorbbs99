@@ -4,7 +4,7 @@ Atuo no desenvolvimento e na manutenção de sistemas, trabalhando desde a arqui
 
 ---
 
-## 🧰 Informações
+## 🛍️ Informações
 
 - 🔗 https://vitorbbs99.github.io/portfolio/
 
