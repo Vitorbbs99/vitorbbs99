@@ -30,5 +30,5 @@ Atuo no desenvolvimento e na manutenção de sistemas, trabalhando desde a arqui
 
 ## 🌐 Onde me encontrar
 
-[![Gmail](https://img.shields.io/badge/Ver%20Portfólio-230077B5?style=for-the-badge&logo=github&logoColor=white)](mailto:vitorbbs99@gmail.com)
-[![Linkedin](https://img.shields.io/badge/Ver%20Portfólio-230077B5?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/vitor-barbosa-162640174/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorbbs99@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-barbosa-162640174/)
