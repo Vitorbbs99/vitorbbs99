@@ -6,7 +6,7 @@ Atuo no desenvolvimento e na manutenção de sistemas, trabalhando desde a arqui
 
 ## 🛍️ Informações
 
-- 🔗 https://vitorbbs99.github.io/portfolio/
+- [![Ver Portfólio](https://img.shields.io/badge/Ver%20Portfólio-000?style=for-the-badge&logo=github&logoColor=white)](https://vitorbbs99.github.io/portfolio/)
 
 ---
 
