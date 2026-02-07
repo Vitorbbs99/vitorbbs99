@@ -1,6 +1,6 @@
 # 👋 Olá!
 
-Atuo no desenvolvimento e na manutenção de sistemas, trabalhando desde a arquitetura do back-end até a criação de interfaces intuitivas no front-end. Tenho experiência no desenvolvimento de **APIs escaláveis** e no uso de **bancos de dados SQL e NoSQL**, aplicando boas práticas para garantir desempenho e confiabilidade.
+Atuo no desenvolvimento e na manutenção de sistemas, trabalhando desde a arquitetura do back-end até a criação de interfaces no front-end. Tenho experiência no desenvolvimento de **APIs escaláveis** e no uso de **bancos de dados SQL e NoSQL**, aplicando boas práticas para garantir desempenho e confiabilidade.
 
 ---
 
